@@ -1,5 +1,6 @@
 1. Buat instance EC2 sesuai spesifikasi di atas.
 2. Buat Elastic IP (EIP) dan Attach (hubungkan) EIP tersebut ke instance EC2 Anda secara permanen.
+![alt text](image-7.png)
 3. Konfigurasi Security Group dengan ketat sesuai aturan di atas
   - Web Server: Menggunakan Nginx (Bukan Apache)
   ![alt text](<Screenshot 2026-04-16 165333.png>)
