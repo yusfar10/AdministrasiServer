@@ -21,6 +21,7 @@
 ![alt text](image-2.png)
 10. create user dengan nama : usrcompro_NIM dan password
 - CREATE USER 'usrcompro_2388010010'@'localhost' IDENTIFIED BY '[PASSWORD]';
+
 ![alt text](<Screenshot 2026-04-14 201817.png>)
 - Grant user akses ke DB yang baru dibuat => GRANT ALL PRIVILEGES ON dbcompro_2388010010.* TO 'usrcompro_2388010010'@'localhost';
 - Flush privileges => FLUSH PRIVILEGES;
